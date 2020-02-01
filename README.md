@@ -1,6 +1,6 @@
 # Modeling-and-Statistics-Studies
 
-The Complete SQL Bootcamp, completed Sept 2019
+Model Thinking, complete
 
 Udemy Course found [here](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
