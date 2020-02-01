@@ -11,7 +11,7 @@ Taught by Scott E. Page, John Seely Brown Distinguished University Professor
 
 ### Statistics & Probability for College/AP Students, 75% complete as of Jan 2020
 
-Udemy Course found [here](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+Udemy Course found [here](https://www.udemy.com/course/statisticsandprobability/)
 
 Taught by Kody Amour University Professor of Mathematics
 
