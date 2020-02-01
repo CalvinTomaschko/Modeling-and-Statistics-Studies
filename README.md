@@ -1,5 +1,7 @@
 # Modeling-and-Statistics-Studies
 
+Two classes on either modeling or statitics & probability
+
 ### Model Thinking, completed 2019
 
 Coursera Course offered by University of Michigan, found [here](https://www.coursera.org/learn/model-thinking)
